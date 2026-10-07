@@ -16,4 +16,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafitaand&show_icons=true" alt="Estatísticas do GitHub de Rafitaand" />
 </div>
-
+<a href="mailto:andriottarafa@gamil.com">
+  <img src="https://img.shields.io/badge/E--mail-E360FF?style=for-the-badge" alt="E-mail" />
+</a>
