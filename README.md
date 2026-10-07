@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/titulo.svg" alt="Oii, eu sou a Rafaella Andriotta" width="500">
+</div>
 
-<!--
-**Rafitaand/rafitaand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=100&size=18&duration=3000&pause=600&color=E360FF&background=E360FF00&center=true&multiline=true&width=435&height=60&lines=Estudo+para+me+tornar+fullstack;e+estou+construindo+o+meu+portf%C3%B3lio." alt="Estudo para me tornar fullstack e estou construindo o meu portfólio." />
+</div>
+<div align="center">
+  <img src="assets/tecnologia.svg" alt="Tecnologia" width="500">
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,html,css" alt="Tecnologias" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafitaand&show_icons=true" alt="Estatísticas do GitHub de Rafitaand" />
+</div>
+
